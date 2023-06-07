@@ -1,1 +1,1 @@
-my fisrt readme
+Starting to code today, so cool
